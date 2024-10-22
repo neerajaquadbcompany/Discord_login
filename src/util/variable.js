@@ -1,0 +1,1 @@
+export const REACT_APP_END_POINT = 'http://localhost:5000'
